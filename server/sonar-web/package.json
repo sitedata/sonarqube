@@ -7,7 +7,7 @@
   "dependencies": {
     "classnames": "2.2.6",
     "core-js": "3.0.0",
-    "create-react-class": "15.6.3",
+    "create-react-class": "15.7.0",
     "d3-array": "1.2.4",
     "d3-scale": "2.1.2",
     "date-fns": "1.30.1",
