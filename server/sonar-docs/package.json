@@ -6,7 +6,7 @@
   "dependencies": {
     "@andrew-codes/gatsby-plugin-elasticlunr-search": "1.0.4",
     "classnames": "2.2.6",
-    "gatsby": "2.2.8",
+    "gatsby": "2.32.8",
     "gatsby-plugin-layout": "1.0.13",
     "gatsby-plugin-react-helmet": "3.0.10",
     "gatsby-plugin-typescript": "2.0.11",
