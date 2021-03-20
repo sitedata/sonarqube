@@ -107,7 +107,7 @@
     "postcss-loader": "3.0.0",
     "prettier": "1.16.4",
     "raw-loader": "2.0.0",
-    "react-dev-utils": "5.0.1",
+    "react-dev-utils": "11.0.4",
     "react-error-overlay": "1.0.7",
     "react-test-renderer": "16.8.6",
     "remark": "9.0.0",
