@@ -15,7 +15,7 @@
     "history": "3.3.0",
     "intl-relativeformat": "2.1.0",
     "keymaster": "1.6.2",
-    "lodash": "4.17.11",
+    "lodash": "4.17.21",
     "lunr": "2.3.4",
     "mdast-util-toc": "2.1.0",
     "prop-types": "15.7.2",
